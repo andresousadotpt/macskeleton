@@ -1,6 +1,3 @@
-include packaging/app.env
-export
-
 .PHONY: build run test app clean bump-version
 
 build:
